@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+  width: 500px;
+}
+
+div {
+  margin: 30px;
+}
+
+.user-hand {
+  display: flex;
+}
+
+.computer-hand {
+  display: flex;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  margin: 5px;
+}
