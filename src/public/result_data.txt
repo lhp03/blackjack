@@ -35,3 +35,38 @@ user hand: ♠️7 ❤️J  user total: 17 computer hand: ♦️J ♦️10  comp
 user hand: ♦️10 ♣️4  user total: 14 computer hand: ❤️3 ♠️6 ♣️10  computer total: 19 COMPUTER WIN!!
 user hand: ♠️K ♠️2 ♣️10  user total: 22 computer hand: ♠️10 ❤️5  computer total: 15 USER BURST!! COMPUTER WIN!!
 user hand: ♦️8 ♦️4 ♣️8  user total: 20 computer hand: ♣️J ♣️3 ❤️3 ♣️K  computer total: 26 COMPUTER BURST!! USER WIN!!
+user hand: ♣️7 ♠️3 ❤️5 ❤️4  user total: 19 computer hand: ❤️K ♠️8  computer total: 18 USER WIN!!
+user hand: ♣️5 ♣️Q ♠️A  user total: 26 computer hand: ♦️2 ❤️9  computer total: 11 USER BURST!! COMPUTER WIN!!
+user hand: ❤️10 ♠️2 ❤️K  user total: 22 computer hand: ❤️3 ♠️8  computer total: 11 USER BURST!! COMPUTER WIN!!
+user hand: ♦️K ♠️4 ♦️6  user total: 20 computer hand: ♦️7 ❤️A  computer total: 18 USER WIN!!
+user hand: ♣️9 ♠️A ♦️8  user total: 18 computer hand: ♠️6 ♦️4 ♣️5 ❤️2  computer total: 17 USER WIN!!
+user hand: ♠️3 ❤️2 ♣️Q ♦️K  user total: 25 computer hand: ♠️K ♦️4  computer total: 14 USER BURST!! COMPUTER WIN!!
+user hand: ♠️9 ❤️2 ♦️8  user total: 19 computer hand: ♣️A ♣️J  computer total: 21 COMPUTER WIN!!
+user hand: ♦️9 ♣️8  user total: 17 computer hand: ❤️K ♦️8  computer total: 18 COMPUTER WIN!!
+user hand: ♦️J ❤️9  user total: 19 computer hand: ♦️2 ♠️J ♠️A  computer total: 23 COMPUTER BURST!! USER WIN!!
+user hand: ♦️4 ♣️4 ♠️9  user total: 17 computer hand: ♠️A ♣️3 ♠️8 ♣️7  computer total: 19 COMPUTER WIN!!
+user hand: ♦️7 ♣️7 ♣️K  user total: 24 computer hand: ♣️10 ♦️3  computer total: 13 USER BURST!! COMPUTER WIN!!
+user hand: ❤️10 ♦️4 ♦️J  user total: 24 computer hand: ♠️8 ♠️6  computer total: 14 USER BURST!! COMPUTER WIN!!
+user hand: ♠️9 ♠️Q  user total: 19 computer hand: ♠️8 ❤️6 ♦️10  computer total: 24 COMPUTER BURST!! USER WIN!!
+user hand: ♦️4 ❤️2 ♠️3 ♣️K  user total: 19 computer hand: ❤️5 ❤️9 ♣️10  computer total: 24 COMPUTER BURST!! USER WIN!!
+user hand: ♠️9 ❤️8 ♣️A  user total: 18 computer hand: ♠️5 ♣️3 ♦️8 ❤️A  computer total: 17 USER WIN!!
+user hand: ♠️7 ♠️2 ❤️4 ♣️9  user total: 22 computer hand: ❤️Q ♣️5  computer total: 15 USER BURST!! COMPUTER WIN!!
+user hand: ❤️A ♦️K  user total: 21 computer hand: ♠️10 ♦️7  computer total: 17 BLACKJACK!! USER WIN!!!
+user hand: ♠️2 ♦️8 ♣️J  user total: 20 computer hand: ❤️7 ♠️8 ♦️J  computer total: 25 COMPUTER BURST!! USER WIN!!
+user hand: ♠️Q ♣️6 ❤️A  user total: 27 computer hand: ♠️2 ♦️3  computer total: 5 USER BURST!! COMPUTER WIN!!
+user hand: ♦️4 ❤️3 ♠️2 ❤️7  user total: 16 computer hand: ♣️3 ♣️10 ♠️7  computer total: 20 COMPUTER WIN!!
+user hand: ❤️8 ♦️4 ♦️Q  user total: 22 computer hand: ♠️3 ♣️A  computer total: 14 USER BURST!! COMPUTER WIN!!
+user hand: ♣️4 ♣️7 ♠️10  user total: 21 computer hand: ♣️3 ♠️7 ♦️Q  computer total: 20 USER WIN!!
+user hand: ❤️2 ❤️A ♣️6  user total: 19 computer hand: ♠️Q ♣️A  computer total: 21 COMPUTER WIN!!
+user hand: ♦️K ♠️5 ❤️6  user total: 21 computer hand: ♦️10 ♣️3 ❤️9  computer total: 22 COMPUTER BURST!! USER WIN!!
+user hand: ❤️J ♣️Q  user total: 20 computer hand: ♠️J ♣️9  computer total: 19 USER WIN!!
+user hand: ♦️8 ♦️10  user total: 18 computer hand: ♦️K ♣️6 ♦️Q  computer total: 26 COMPUTER BURST!! USER WIN!!
+user hand: ♦️Q ❤️5 ❤️9  user total: 24 computer hand: ♦️J ♠️2  computer total: 12 USER BURST!! COMPUTER WIN!!
+user hand: ♦️3 ♣️3 ♣️J ♠️K  user total: 26 computer hand: ❤️3 ♠️6  computer total: 9 USER BURST!! COMPUTER WIN!!
+user hand: ♣️5 ♠️3 ❤️4 ♣️2 ❤️K  user total: 24 computer hand: ❤️Q ♦️8  computer total: 18 USER BURST!! COMPUTER WIN!!
+user hand: ♣️9 ♦️9 ♣️A  user total: 19 computer hand: ♦️J ♠️K  computer total: 20 COMPUTER WIN!!
+user hand: ♣️2 ♠️4 ♣️6 ❤️A ❤️9  user total: 22 computer hand: ♦️10 ♣️J  computer total: 20 USER BURST!! COMPUTER WIN!!
+user hand: ♦️9 ❤️4 ❤️5  user total: 18 computer hand: ♣️8 ♦️10  computer total: 18 TIE
+user hand: ❤️8 ❤️9 ❤️7  user total: 24 computer hand: ❤️6 ♣️Q  computer total: 16 USER BURST!! COMPUTER WIN!!
+user hand: ♦️Q ♣️9 ❤️J  user total: 29 computer hand: ♦️8 ♠️8  computer total: 16 USER BURST!! COMPUTER WIN!!
+user hand: ♠️A ♣️3 ❤️3 ♠️J  user total: 27 computer hand: ♦️5 ♠️10  computer total: 15 USER BURST!! COMPUTER WIN!!

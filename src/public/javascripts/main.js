@@ -151,8 +151,9 @@ const endGame = (user_hand, computer_hand, option) => {
   } else {
     result = "TIE";
   }
-  const result_head = document.createElement("h3");
+  const result_head = document.createElement("h2");
   const result_text = document.createTextNode(result);
+  result_head.className = "result-head ";
   result_head.appendChild(result_text);
 
   game_div.appendChild(result_head);
@@ -202,6 +203,24 @@ const endGame = (user_hand, computer_hand, option) => {
   game_btn_div.appendChild(restart_btn);
 };
 
+const getCardImg = (card) => {
+  if (card === "Hidden") {
+    return "/card_img/Card-back.png";
+  } else {
+    const suit =
+      card.suit === suits.SPADES
+        ? "S"
+        : card.suit === suits.HEARTS
+        ? "H"
+        : card.suit === suits.DIAMONDS
+        ? "D"
+        : card.suit === suits.CLUBS
+        ? "C"
+        : "";
+    return `/card_img/${card.rank}${suit}.png`;
+  }
+};
+
 const displayCards = (cards, option) => {
   if (option === "user") {
     const user_hand_div = document.querySelector(".user-hand");
@@ -220,9 +239,12 @@ const displayCards = (cards, option) => {
 
     cards.map((elem, i) => {
       const card_div = document.createElement("div");
-      const card_content = document.createTextNode(`${elem.suit} ${elem.rank}`);
+      const card_img = document.createElement("img");
+      card_img.src = getCardImg(elem);
+      card_img.width = "138";
+      card_img.height = "210";
       card_div.className = `card card-${i}`;
-      card_div.appendChild(card_content);
+      card_div.appendChild(card_img);
       user_hand_div.appendChild(card_div);
     });
 
@@ -251,17 +273,21 @@ const displayCards = (cards, option) => {
     cards.map((elem, i) => {
       if (i === 0 && !isEnd) {
         const hidden_div = document.createElement("div");
-        const hidden_content = document.createTextNode("Hidden");
+        const card_img = document.createElement("img");
+        card_img.src = getCardImg("Hidden");
+        card_img.width = "138";
+        card_img.height = "210";
         hidden_div.className = `card hidden`;
-        hidden_div.appendChild(hidden_content);
+        hidden_div.appendChild(card_img);
         computer_hand_div.append(hidden_div);
       } else {
         const card_div = document.createElement("div");
-        const card_content = document.createTextNode(
-          `${elem.suit} ${elem.rank}`
-        );
+        const card_img = document.createElement("img");
+        card_img.src = getCardImg(elem);
+        card_img.width = "138";
+        card_img.height = "210";
         card_div.className = `card card-${i}`;
-        card_div.appendChild(card_content);
+        card_div.appendChild(card_img);
         computer_hand_div.appendChild(card_div);
       }
     });
